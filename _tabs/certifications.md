@@ -31,7 +31,6 @@ order: 1
 {% assign current_year = post_year %}
 {% endif %}
 <div>
-<a class="cert-item" href="">
 {% if post.image %}
 <img
 src="{{ post.image | relative_url }}"
@@ -40,7 +39,6 @@ title="{{ post.title }} ({{ post.date | date: '%m/%y' }})"
 class="cert-post-image">
 {% endif %}
 <span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
-</a>
 </div>
 {% if forloop.last %}
 </div>
