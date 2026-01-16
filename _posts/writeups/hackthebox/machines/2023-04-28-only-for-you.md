@@ -126,7 +126,7 @@ Obtención del fichero form.py:
 
 
 
-El fichero [`form.py`](http://form.py/) contiene el método `issecure` que es vulnerable a Command Injection debido al uso de la función `run` de la librería `subprocess` de python.
+El fichero `form.py` contiene el método `issecure` que es vulnerable a Command Injection debido al uso de la función `run` de la librería `subprocess` de python.
 
 ![Untitled.png](/assets/img/hackthebox/machines/onlyforyou/Untitled%20(23).png)
 

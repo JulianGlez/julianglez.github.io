@@ -90,7 +90,7 @@ ssh -i .ssh/id_rsa [username]@[host]
 Y que la validez del host es comprobada en el backend, se intenta una inyección en el usuario para obtener RCE.
 
 
-![Untitled.png](/assets/img/hackthebox/machines/cozyhosting/Untitled%20(22).png)
+![Untitled.png](/assets/img/hackthebox/machines/cozyhosting/Untitled%20(11).png)
 
 
 
