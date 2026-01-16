@@ -2,7 +2,7 @@
 layout: page
 title: Certificaciones
 icon: fa-solid fa-certificate
-order: 1
+order: 3
 ---
 
 {% assign certifications = site.posts
