@@ -5,7 +5,7 @@ order: 4
 title: Sobre mí
 ---
 
-Soy Julián González Muñoz, graduado en Ingeniería Informática por la UDC en 2021 y especializado en ciberseguridad a través del Master Inter-Universitario de Ciberseguridad (MUniCS) de la UDC en 2022. 
+Soy Julián González, graduado en Ingeniería Informática por la UDC en 2021 y especializado en ciberseguridad a través del Master Inter-Universitario de Ciberseguridad (MUniCS) de la UDC en 2022. 
 
 Actualmente trabajo como Analista de Ciberseguridad en un SOC multicliente donde me dedico, entre otros, a la monitorización de incidentes, mejora de procesos de seguridad, respuesta a incidentes y análisis forense (DFIR) y a la realización de campañas de concienciación mediante phishing. Durante mi carrera profesional he desempeñado tareas de administración de sistemas, desarrollo de software y ciberseguridad, lo cual me ha brindado conocimientos amplios y variados, pudiendo aplicarlos a los retos que me encuentro en mi día a día profesional.
 
