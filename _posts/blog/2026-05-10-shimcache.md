@@ -1,6 +1,6 @@
 ---
 title: Shimcache, el artefacto definitivo para (no) evidenciar ejecución
-date: 2026-05-17 19:30:00 +0100
+date: 2026-07-01 22:30:00 +0200
 categories: [Blog, Forensics]
 tags: [dfir, shimcache, blog]     # TAG names should always be lowercase
 author: julian
