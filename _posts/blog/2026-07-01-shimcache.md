@@ -4,7 +4,7 @@ date: 2026-07-01 22:30:00 +0200
 categories: [Blog, Forensics]
 tags: [dfir, shimcache, blog]     # TAG names should always be lowercase
 author: julian
-description: 
+description: Shimcache es un artefacto de Windows utilizado ampliamente para evidenciar presencia. Numerosas veces se enumera como uno de los artefactos que pueden evidenciar ejecución durante una investigación forense. En esta publicación se hace un repaso del porqué de la existencia de Shimcache y por qué no sirve para evidenciar ejecución.
 # contents:
 comments: false
 image: /assets/img/blog/shimcache/Shimcache header.png
